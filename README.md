@@ -61,15 +61,7 @@ Here is a quick snapshot of what I do:
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KunalM139&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7)
-
-</div>
 
 ---
 
