@@ -114,3 +114,8 @@ Here is a quick snapshot of what I do:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563eb,45:7c3aed,100:020617)
 
 </div>
+
+
+
+
+cxvxfcv
