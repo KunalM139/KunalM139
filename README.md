@@ -53,11 +53,11 @@ Here is a quick snapshot of what I do:
 
 <br><br>
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunalM139&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=a78bfa&icon_color=8b5cf6&text_color=e5e7eb)
+![Kunal's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=KunalM139&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=a78bfa&icon_color=8b5cf6&text_color=e5e7eb)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KunalM139&theme=tokyonight&hide_border=true&background=020617&ring=8b5cf6&fire=a78bfa&currStreakLabel=e5e7eb)
+![GitHub Streak](https://streak-stats.vercel.app?user=KunalM139&theme=tokyonight&hide_border=true&background=020617&ring=8b5cf6&fire=a78bfa&currStreakLabel=e5e7eb)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalM139&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=e5e7eb)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KunalM139&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=e5e7eb)
 
 </div>
 
