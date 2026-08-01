@@ -1,5 +1,5 @@
 <div align="center">
-rr
+rrr
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020617,35:312e81,70:7c3aed,100:2563eb&text=Kunal%20Malik&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20%7C%20IoT&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+systems;Computer+Science+student+at+SRM+University)](https://git.io/typing-svg)
